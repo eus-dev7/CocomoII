@@ -1,0 +1,10 @@
+c:\users\eustaquio\documents\visual studio 2013\Projects\CocomoII\CocomoII\bin\Debug\CocomoII.exe.config
+c:\users\eustaquio\documents\visual studio 2013\Projects\CocomoII\CocomoII\bin\Debug\CocomoII.exe
+c:\users\eustaquio\documents\visual studio 2013\Projects\CocomoII\CocomoII\bin\Debug\CocomoII.pdb
+c:\users\eustaquio\documents\visual studio 2013\Projects\CocomoII\CocomoII\obj\Debug\CocomoII.Form1.resources
+c:\users\eustaquio\documents\visual studio 2013\Projects\CocomoII\CocomoII\obj\Debug\CocomoII.Properties.Resources.resources
+c:\users\eustaquio\documents\visual studio 2013\Projects\CocomoII\CocomoII\obj\Debug\CocomoII.csproj.GenerateResource.Cache
+c:\users\eustaquio\documents\visual studio 2013\Projects\CocomoII\CocomoII\obj\Debug\CocomoII.exe
+c:\users\eustaquio\documents\visual studio 2013\Projects\CocomoII\CocomoII\obj\Debug\CocomoII.pdb
+c:\users\eustaquio\documents\visual studio 2013\Projects\CocomoII\CocomoII\bin\Debug\MySql.Data.dll
+C:\Users\Eustaquio\Documents\Visual Studio 2013\Projects\CocomoII\CocomoII\obj\Debug\CocomoII.csprojResolveAssemblyReference.cache
