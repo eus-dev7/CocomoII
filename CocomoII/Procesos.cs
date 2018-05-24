@@ -291,7 +291,6 @@ namespace CocomoII
                 double pn = 0;
                 double p = 0;
                 cn = new MySqlConnection();
-                cn.ConnectionString = "SERVER=localhost;DATABASE=cocomo;UID=root;PASSWORD=;";
                 try
                 {
                     cn.Open();
@@ -343,7 +342,6 @@ namespace CocomoII
                 double pn = 0;
                 double p = 0;
                 cn = new MySqlConnection();
-                cn.ConnectionString = "SERVER=localhost;DATABASE=cocomo;UID=root;PASSWORD=;";
                 try
                 {
                     cn.Open();
@@ -486,7 +484,6 @@ namespace CocomoII
             int y1 = 0;
             double y;
             cn = new MySqlConnection();
-            cn.ConnectionString = "SERVER=localhost;DATABASE=cocomo;UID=root;PASSWORD=;";
             try
             {
                 cn.Open();
@@ -520,7 +517,6 @@ namespace CocomoII
             int y1 = 0;
             double y;
             cn = new MySqlConnection();
-            cn.ConnectionString = "SERVER=localhost;DATABASE=cocomo;UID=root;PASSWORD=;";
             try
             {
                 cn.Open();
@@ -554,7 +550,6 @@ namespace CocomoII
             int y1 = 0;
             double y;
             cn = new MySqlConnection();
-            cn.ConnectionString = "SERVER=localhost;DATABASE=cocomo;UID=root;PASSWORD=;";
             try
             {
                 cn.Open();
@@ -588,7 +583,6 @@ namespace CocomoII
             int y1 = 0;
             double y;
             cn = new MySqlConnection();
-            cn.ConnectionString = "SERVER=localhost;DATABASE=cocomo;UID=root;PASSWORD=;";
             try
             {
                 cn.Open();
@@ -622,7 +616,6 @@ namespace CocomoII
             int y1 = 0;
             double y;
             cn = new MySqlConnection();
-            cn.ConnectionString = "SERVER=localhost;DATABASE=cocomo;UID=root;PASSWORD=;";
             try
             {
                 cn.Open();
@@ -656,7 +649,6 @@ namespace CocomoII
             int y1=0;
             double y;
             cn = new MySqlConnection();
-            cn.ConnectionString = "SERVER=localhost;DATABASE=cocomo;UID=root;PASSWORD=;";
             try
             {
                 cn.Open();

@@ -24,7 +24,6 @@ namespace CocomoII
         private void Form1_Load(object sender, EventArgs e)
         {
             cn = new MySqlConnection();
-            cn.ConnectionString = "SERVER=localhost;DATABASE=cocomo;UID=root;PASSWORD=;";
             try
             {
                 cn.Open();
